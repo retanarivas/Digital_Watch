@@ -1,0 +1,35 @@
+.mainhead {
+    color: white;
+    text-align: center;
+    position: relative;
+    font-size: 60px;
+    text-shadow: 0 0 15px blue, 0 0 15px aqua, 0 0 15px cyan, 0 0 15px turquoise, 0 0 15px
+}
+.clockborder {
+    width: 50%;
+    height: 30%;
+    position: relative;
+    left: 24%;
+    top: 5%;
+    background-color: transparent;
+    border-style: solid;
+    color: white;
+    border-color: blue;
+    border-width: 20px;
+}
+#digitalnumber {
+    color: white;
+    text-align: center;
+    position: relative;
+    font-size: 60px;
+    text-shadow: 0 0 15px blue,0 0 15px aqua,0 0 15px cyan,0 0 15px turquoise,0 0 15px blue;
+}
+#dates {
+    color: white;
+    text-align: right;
+    position: relative;
+    font-size: 20px;
+    text-shadow: 0 0 15px blue,0 0 15px aqua,0 0 15px cyan,0 0 15px turquoise,0 0 15px blue;
+    margin-right: 50px;
+    bottom: 50px;
+}
